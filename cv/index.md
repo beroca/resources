@@ -25,7 +25,7 @@ Nationality:  Spain</pre>
 * Contributed to the Continuous Integration and Continuous Delivery (CI/CD) pipeline to build and release multiple microservices and applications (**Jenkins, Docker, Kubernetes, AWS**).
 * Provided monitoring and on-call support of 10-15 microservices, following the approach "you build it, you run it" (**Kibana, Grafana, Splunk On-Call/VictorOps**).
 * Acted as part-time Scrum Coach rotating the role periodically with the rest of team members.
-* Obtained the certifications of **PSM-I (Professional Scrum Master)** and **ITIL4 Foundation** Certificate in IT Service Management (https://purl.org/beroca/certificates)
+* Obtained the certifications of **PSM-I (Professional Scrum Master)** and **ITIL4 Foundation** Certificate in IT Service Management (<a href="https://purl.org/beroca/certificates" target="_blank" rel="noopener noreferrer">https://purl.org/beroca/certificates</a>)
 
 
 **Information Technology Engineer. PAYBACK GmbH, Munich, Germany.** Feb 2015 – Dec 2016
@@ -39,7 +39,7 @@ Nationality:  Spain</pre>
 
 **Research Associate. Bundeswehr University Munich, Munich, Germany.** Aug 2011 – Dec 2013
 * Participated in the development of 40+ Web vocabularies (i.e. Web ontologies) of end-consumer commodity products (**W3C RDF, OWL, Protégé Ontology Editor**).
-* Co-authored 4 research articles published in international conferences in the area of Semantic Web technologies (http://purl.org/beroca/publications) and provided peer reviews of other 30+ articles (**LaTeX**).
+* Co-authored 4 research articles published in international conferences in the area of Semantic Web technologies (<a href="http://purl.org/beroca/publications" target="_blank" rel="noopener noreferrer">http://purl.org/beroca/publications</a>) and provided peer reviews of other 30+ articles (**LaTeX**).
 
 
 **Senior Software Engineer. Motorola Solutions, Plantation, Florida, U.S.A.** Aug 1999 – Dec 2005
@@ -54,7 +54,7 @@ Customized modules of HP's Hospital Information System (HP HIS) suite for a loca
 
 **EDUCATION**  
 **Ph.D. in Computer Science. University of Southampton.** Southampton, U.K. 2011.\
-Thesis: Towards Ontology Design Patterns to Model Multiple Classification Criteria of Domain Concepts for the Semantic Web (https://purl.org/beroca/phd/thesis). \
+Thesis: Towards Ontology Design Patterns to Model Multiple Classification Criteria of Domain Concepts for the Semantic Web (<a href="https://purl.org/beroca/phd/thesis" target="_blank" rel="noopener noreferrer">https://purl.org/beroca/phd/thesis</a>). \
 **M.Sc. in Computer Engineering. University of Miami.** Florida, U.S.A. 1999.\
 **B.Sc. in Computer Science. University of Granada.** Granada, Spain. 1997.
 
