@@ -1,3 +1,7 @@
+---
+layout: post
+title: Benedicto RODRIGUEZ CASTRO
+---
 # Benedicto RODRIGUEZ CASTRO
 <table>
   <tbody>
