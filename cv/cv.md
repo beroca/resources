@@ -3,12 +3,12 @@
   <tbody>
     <tr>
       <td><img src="../image/about-629x709.png" width="120"></td>
-      <td><pre>
-Address:     Munich, Germany
-Email:       beroca AT gmail DOT com
-LinkedIn:    www.linkedin.com/in/beroca
-Xing:        www.xing.com/profile/Bene_Rodriguez
-Nationality: Spain</pre>
+      <td><pre style="font-family: 'Ubuntu Mono', 'Roboto Mono', 'Menlo', 'Monaco', 'Lucida Console', monospace;">
+Address:      Munich, Germany
+Email:        <a href="mailto:beroca@gmail.com">beroca AT gmail DOT com</a>
+LinkedIn:     <a href="https://www.linkedin.com/in/beroca" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/beroca</a>
+Xing:         <a href="https://www.xing.com/profile/Benedicto_RodriguezCastro" target="_blank" rel="noopener noreferrer">www.xing.com/profile/Benedicto_RodriguezCastro</a>
+Nationality:  Spain</pre>
       </td>
     </tr>
   </tbody>
